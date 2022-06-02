@@ -1,7 +1,7 @@
 # Documentation Buddy  
-Research shows that developers spend 59% of their time on code comprehension tasks. Despite developers spending more time reading code than writing code, majority of software tools that exist today focus on one of the 3 categories: 1) improved environment setups, 2) packages that enable faster writing of code, 3) task and project management tools.  
+93% of developers report having problems with documentation. This is the highest self-reported problem of any problem by software developers. Research shows that developers spend 58% of their time on code comprehension tasks. That means that "writing code" is more reading code and documentation than it is actually writing code. This raises some interesting questions. Why are the majority of software developer tools focused on faster ways to write code when reading it is more time consuming and frustrating? Also, does creating documentation have to be a painful process that 93% of developers are unsatisfied with the results?    
   
-Poor software documentation increases development time long term, increases bugs and decreases the lifetime of software before it becomes unmaintainable. Documentation Buddy solves the issue of undocumented, poorly documented or incorrectly documented code.  
+Documentation Buddy utilizes artificial intelligence and open source software to reinvent the way code is documented!    
 
 # Roadmap  
 ## Phase 1  
@@ -15,3 +15,6 @@ Cutting edge NLP and machine learning will be implemented to automatically gener
 
 ## Phase 4  
 RPA (Robotic Process Automation) will be implemented to verify the correctness of installation processes and environment setup.  
+
+# Are Tools for Software Developers Really That Big of a Deal?  
+Yes, software developer tools is a $3.8B market that directly impacts the overall software development market, a $430B industry.
