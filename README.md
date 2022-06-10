@@ -23,5 +23,5 @@ Yes, software developer tools is a $3.8B market that directly impacts the overal
 1) git clone https://github.com/Tyler-Hilbert/Documentation-Buddy.git  
 2) cd Documentation-Buddy
 3) mkdir test   
-4) # copy the codebase you want to analyze into Documentation-Buddy/test/  
+4) \# copy the codebase you want to analyze into Documentation-Buddy/test/  
 5) python3 Parser.py  
