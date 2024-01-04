@@ -26,3 +26,11 @@ Yes, software developer tools is a $3.8B market that directly impacts the overal
 3) mkdir test   
 4) \# copy the codebase you want to analyze into Documentation-Buddy/test/  
 5) python3 Parser.py  
+
+# Hey You Stuck Around!!  
+Why not check out some of my other projects??  
+https://github.com/Tyler-Hilbert/Ray-Diagram  
+https://github.com/Tyler-Hilbert/Reflection-and-Refraction-of-Light  
+https://github.com/Tyler-Hilbert/SoundWave  
+https://github.com/Tyler-Hilbert/SpaceTripPlanner  
+https://github.com/Tyler-Hilbert/3D-Printed-Guitars  
